@@ -12,3 +12,11 @@ summary of the AI Fluency Framework and its core competencies:
 - "Process Discernment" means assessing if AI’s reasoning and problem-solving are effective.
 - Diligence focuses on responsible AI use, transparency, and accountability.
 - "Transparency Diligence" means being open and honest about AI’s role in your work with those who need to know.
+
+
+## AI Fluency = 4D Framework
+
+✅ Delegation → What should AI do?
+✅ Description → Give clear instructions.
+✅ Discernment → Verify the output.
+✅ Diligence → Use AI responsibly.
